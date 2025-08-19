@@ -1,0 +1,11 @@
+# Escreva um programa que leia um valor inteiro e apresente os resultados do quadrado e do cubo dovalor lido.
+
+    #entrada de dados
+    nun=int(input("informe um valor inteiro:"))
+
+    #processamento dos dados
+    quad=nun**2
+    cubo=nun**3
+
+    #saída de dados 
+print(f'O quadrado do número(nun) é:',quad)
